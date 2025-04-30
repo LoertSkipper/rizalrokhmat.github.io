@@ -68,7 +68,7 @@ h2 {
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 10px;
-    box-shadow: 0px 0px 2px grey;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.699);
     margin-left: 16px;
 }
 
@@ -79,7 +79,7 @@ h2 {
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 10px;
-    box-shadow: 0px 0px 2px grey;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.699);
     margin-right: 16px;
 }
 footer {
@@ -97,7 +97,7 @@ a {
     border: 30px #000000;
 }
 a:hover {
-    background-color: rgb(125, 129, 3);
+    background-color: rgba(0, 153, 255, 0.575);
 }
 .kontak {
     width: 300px;
@@ -129,7 +129,7 @@ a:hover {
 .kontak input[type="submit"] {
     width: 100%;
     padding: 10px;
-    background-color: #f7a43e;
+    background-color: #0095f8;
     color: white;
     font-weight: bold;
     border: none;
@@ -138,14 +138,14 @@ a:hover {
 }
 
 .kontak input[type="submit"]:hover {
-    background-color: #ffc986;
+    background-color: #50b9ff;
 }
 footer {
     margin-bottom: 0;
 }
 .medsos {
     color: white;
-    background-color: #ffce2e;
+    background-color: #0095f8;
     padding: 8px 12px;
     border-radius: 6px;
     display: inline-block;
@@ -153,5 +153,5 @@ footer {
     text-decoration: none;
 }
 .medsos:hover {
-    background-color: #ffe761;
+    background-color: #50b9ff;
 }
