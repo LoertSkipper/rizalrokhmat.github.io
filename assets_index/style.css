@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("gambar/image.png");
+    background-image: url("gambar/bg.png");
+    margin: 0;
 }
 h1 {
     text-align: center;
@@ -60,9 +61,11 @@ h2 {
 .utama {
     grid-column: 1 / 2;
     background-color: #FFF5EE;
-    padding: 2px;
-    border-radius: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
     box-shadow: 0px 0px 2px grey;
+    margin-left: 16px;
 }
 
 .sidebar {
@@ -71,6 +74,7 @@ h2 {
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0px 0px 2px grey;
+    margin: 16px;
 }
 footer {
     text-align: center;
