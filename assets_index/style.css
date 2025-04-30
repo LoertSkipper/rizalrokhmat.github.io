@@ -30,7 +30,7 @@ h2 {
     justify-content: center;
     align-items: center;
     gap: 20px;
-    background-color: #f7a43e;
+    background-color: #00000051;
     color: white;
     padding: 10px;
 }
@@ -136,4 +136,7 @@ a:hover {
 
 .kontak input[type="submit"]:hover {
     background-color: #f7a43e;
+}
+footer {
+    margin-bottom: 0;
 }
