@@ -61,6 +61,7 @@ h2 {
 .utama {
     grid-column: 1 / 2;
     background-color: #FFF5EE;
+    padding-bottom: 30px;
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 10px;
@@ -71,10 +72,12 @@ h2 {
 .sidebar {
     grid-column: 2 / 3;
     background-color: #FFF5EE;
-    padding: 15px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 2px grey;
-    margin: 16px;
+    margin-right: 16px;
 }
 footer {
     text-align: center;
